@@ -9,7 +9,6 @@ class Person{
         console.log(`Hi, , I love ${this.name}`);
     }
 }
-
 let p1 = new Person("shubh",22);
 let p2 = new Person("maahi",19);
 
