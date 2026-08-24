@@ -22,7 +22,6 @@ class Student extends Person{
     }
 
 }
-
 class Teacher extends Perrson{
     constructor(name,age,subject){
         super(name,age);
