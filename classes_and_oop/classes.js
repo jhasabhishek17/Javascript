@@ -12,7 +12,6 @@ class Person{
 let p1 = new Person("shubh",22);
 let p2 = new Person("maahi",19);
 
-
 // Inheritance :- 
 
 class Student extends Person{
